@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 💻 Proficient in Python and C<br><br>🔭 Building logic-driven projects<br><br>🌱 Learning Java & Web Development<br><br>📚 Focused on core CS fundamentals
 
 
